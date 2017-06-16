@@ -1,0 +1,16 @@
+fIp,tIp,date,fLat,fLong,tLat,tLong,type,vector,family
+8.8.8.8,127.0.0.1,10/03/2001,-60.292969,-0.801976,31.648121,34.969482,DDoS,n/a,n/a
+8.8.8.8,127.0.0.1,10/03/2001,34.225429,-86.308594,31.648121,34.969482,DDoS,n/a,n/a
+8.8.8.8,127.0.0.1,10/03/2001,59.30516,95.449219,31.648121,34.969482,DDoS,n/a,n/a
+8.8.8.8,127.0.0.1,10/03/2001,63.81644,-46.230469,31.648121,34.969482,DDoS,n/a,n/a
+64.233.167.109,127.0.0.1,10/03/2017,40.103286,-75.761719,31.648121,34.969482,malware,Email,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,36.518466,-78.222656,n/a,n/a,malware,Email,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,39.188626,-76.486816,n/a,n/a,malware,Infected Hardware,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,37.813039,-76.750488,n/a,n/a,malware,Email,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,37.115431,-76.970215,n/a,n/a,malware,Popup ad,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,38.812961,-80.178223,n/a,n/a,malware,Popup Ad,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,40.504402,-76.970215,n/a,n/a,malware,Inner-network infection,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,56.532229,45.439453,n/a,n/a,malware,Popup Ad,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,50.816348,37.353516,n/a,n/a,malware,Infected Hardware,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,58.237272,74.443359,n/a,n/a,malware,Popup Ad,Trojan-Ransom.Win32.Locky.d
+n/a,n/a,04/05/2012,62.570575,-102.392578,n/a,n/a,malware,Email,Trojan-Ransom.Win32.Locky.d

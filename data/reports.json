@@ -1,0 +1,40 @@
+{
+  "reports": [{
+      "details": {
+        "filename": "picture.scr",
+        "vector": "email",
+        "origin": "8.8.8.8",
+        "date": "10/03/2017",
+        "type": "malware"
+      },
+      "classify": {
+        "family": "Trojan-Ransom.Win32.Locky.d",
+        "severity": 9.8,
+        "popularity": 0.7,
+        "other": [
+            {"type": "ransomware", "value" : 0.5},
+          {"type":"trojan", "value" :0.4},
+          {"type":"adware", "value":0.1}
+        ]
+      }
+    },
+    {
+      "details": {
+        "filename": null,
+        "vector": "false packets",
+        "type": "ddos",
+        "origin": "8.8.8.8",
+        "date": "10/03/2001"
+      },
+      "classify": {
+        "family": null,
+        "severity": 3,
+        "popularity": 0.7,
+        "other": [
+            {"type": "ddos", "value" : 0.8},
+          {"type": "web crawler", "value" : 0.2}
+        ]
+      }
+    }
+  ]
+}
