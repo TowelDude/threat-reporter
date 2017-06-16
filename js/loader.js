@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
-  $("div[id^=section]").addClass("loading");
-
+	var url = new URL(window.location.href);
+	var tp = url.searchParams.get("type");
   $.ajax({
     url: "server.php",
     data: {
