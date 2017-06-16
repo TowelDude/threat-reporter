@@ -9,8 +9,6 @@ $(document).ready(function() {
       "type": tp
     },
     success: function(data) {
-      setTimeout(function(){}, )
-      console.log(data);
       var dBuild = "<ul class='details'>";
       for (var key in data.details) { // Assign details
         dBuild += createLi(key, data.details[key]);
